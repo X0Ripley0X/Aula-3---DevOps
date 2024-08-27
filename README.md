@@ -3,6 +3,6 @@
 ## 3 Filmes Favoritos
 É o Fim <br>
 Projeto X <br>
-Star Wars <br>
+Coraline <br>
 
 > Foi difícil escolher só 3
