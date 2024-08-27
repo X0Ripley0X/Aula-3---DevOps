@@ -1,7 +1,7 @@
 # Aula 5 - DevOps
 
 ## 3 Série Favoritos
-Stranger Things <br>
+Hazbin Hotel <br>
 The Boys <br>
 The Office <br>
 
